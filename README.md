@@ -21,6 +21,7 @@ set backupFolder=C:\vsbackup
 
 
 
-This one sets the amount of backups.
+
+Define the amounth of backups.
 
 set BackupNumber=5
