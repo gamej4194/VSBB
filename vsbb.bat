@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 rem NAME OF THE WORLD YOU WICH TO BACKUP
-set savename=121
+set savename=WorldName
 
 rem WHERE TO SAVE
 set backupFolder=C:\vsbackup
